@@ -4,10 +4,7 @@ banner_image: "/img/banner.png"
 layout: landing-page
 heading: Data Manifest
 partners: []
-services:
-- heading: Data Science Consultancy
-  description: ''
-  icon: ''
+services: []
 sub_heading: Making data real
 textline: Providing data science consultancy services to public and private sectors
 hero_button:
