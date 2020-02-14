@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2020/02/14/Untitled2.jpg"
 layout: landing-page
 heading: Data Manifest
 partners: []
